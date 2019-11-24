@@ -27,7 +27,6 @@ To keep our users up to date
 > Assets: [SteamVR Plugin v1.2.3 [deprecated]](https://github.com/ValveSoftware/steamvr_unity_plugin/releases/tag/1.2.3)
 
 ## Built With
-
 * [Unity](https://unity3d.com/get-unity/download) - Main Platform, Dependency Management
 * [SteamVR Plugin](https://assetstore.unity.com/packages/tools/integration/steamvr-plugin-32647) - Archery, Painting
 * [Oculus Integration](https://assetstore.unity.com/packages/tools/integration/oculus-integration-82022) - Control Mapping, Selection Visualizer
@@ -36,9 +35,7 @@ To keep our users up to date
 
 
 ## Authors
-
 * **Yohan Flores** - *Project Manager* - [Pixel-Yohan](https://github.com/Pixel-Yohan)
 * **Firstname Lastname** - *Role* - [Username](http://github.com/)
-
 
 See also the list of [contributors](https://github.com/acm-projects/vr-assistant/graphs/contributors) who participated in this project.
