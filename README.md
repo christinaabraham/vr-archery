@@ -1,6 +1,7 @@
 # Mischa
 Immersive assistant that helps you be organized and responds with care and concern for your well being. Immersiveness is achieved by creating a room where you are situated in a desk - every time you log on - but are allowed to roam around your room while music plays in the back or, if you would prefer, view a virtual scenery through your windows.
 
+
 ## Features
 ### Voice to Text
 This particular API will help us convert user voice to text. This text will then be processed by the Cloud Natural Language to perform sentiment analysis. This can be useful as a tracker can be built to notice similarities between days where a sentiment of “sadness” was found. 
@@ -19,12 +20,14 @@ Calendar
 https://developers.google.com/calendar/
 To keep our users up to date
 
+
 ## Dependencies
 > Unity Editor 2.1.3
 
 > Unity  Version: 2018.4.9f1 (LTS)
 
 > Assets: [SteamVR Plugin v1.2.3 [deprecated]](https://github.com/ValveSoftware/steamvr_unity_plugin/releases/tag/1.2.3)
+
 
 ## Built With
 * [Unity](https://unity3d.com/get-unity/download) - Main Platform, Dependency Management
@@ -37,5 +40,6 @@ To keep our users up to date
 ## Authors
 * **Yohan Flores** - *Project Manager* - [Pixel-Yohan](https://github.com/Pixel-Yohan)
 * **Firstname Lastname** - *Role* - [Username](http://github.com/)
+
 
 See also the list of [contributors](https://github.com/acm-projects/vr-assistant/graphs/contributors) who participated in this project.
